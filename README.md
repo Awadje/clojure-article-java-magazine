@@ -1,11 +1,13 @@
-# ClojureScript Reagent Started
+# ClojureScript Reagent Starter
 
 ## Introduction
 
-This repository is created for readers of the Clojure Script Article: _Functioneel programmeren op de front-end met onveranderlijke data structuren. Het kan met Clojure Script_
+I wrote an article for Java Magazine and this repository is created for readers of the Article named: _Functioneel programmeren op de front-end met onveranderlijke data structuren. Het kan met Clojure Script_
 
 You can clone this repository and code along with the examples mentioned in the article. If you want to go more into depth, I recommend this tutorial, where this boilerplate is originated from:
 [Tutorial: Clojurescript App With Reagent For Beginners, Part 1](https://www.rockyourcode.com/tutorial-clojurescript-app-with-reagent-for-beginners-part-1/)
+
+You can find more information about Reagent here: [Reagent: Minimalistic React for ClojureScript](https://reagent-project.github.io/)
 
 ## Before you start
 
