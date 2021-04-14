@@ -1,8 +1,31 @@
-# {{name}}
+# ClojureScript Reagent Started
+
+## Introduction
+
+This repository is created for readers of the Clojure Script Article: _Functioneel programmeren op de front-end met onveranderlijke data structuren. Het kan met Clojure Script_
+
+You can clone this repository and code along with the examples mentioned in the article. If you want to go more into depth, I recommend this tutorial, where this boilerplate is originated from:
+[Tutorial: Clojurescript App With Reagent For Beginners, Part 1](https://www.rockyourcode.com/tutorial-clojurescript-app-with-reagent-for-beginners-part-1/)
+
+## Before you start
+
+Because you are working with a REPL, a specific setup is required for your code editor:
+
+- For **VSCode** I recommend the following article that guides you through the setup [Clojure Development with Visual Studio Code](https://spin.atomicobject.com/2017/06/22/clojure-development-with-visual-studio-code/)
+
+- For **IntelliJ** I recommend the following [Installing Cursive](https://cursive-ide.com/userguide/#:~:text=If%20you've%20been%20using,window%20and%20the%20Settings%20window.)
+
+## Where to start
+
+This is the file where you can start directly with coding:
+
+```shell
+src/breaking_bad_quotes/core.cljs
+```
 
 ## Run
 
-``` shell
+```shell
 yarn install
 
 yarn watch
@@ -10,13 +33,13 @@ yarn watch
 
 ## Clean
 
-``` shell
+```shell
 yarn clean
 ```
 
 ## Release
 
-``` shell
+```shell
 yarn release
 ```
 
